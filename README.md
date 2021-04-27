@@ -21,6 +21,7 @@ http://localhost:8080/api/v1/people
 ```
 
 <h2> GET, POST, PUT e DELETE </h2>
+
 ![Exec](https://github.com/AlbertoFerreiraMaiaNeto/API_de_gerenciamento_de_pessoas/blob/master/ImagensHTTP.png)
 
 
